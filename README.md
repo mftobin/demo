@@ -1,2 +1,2 @@
 # demo
-demo repository Maura
+demo repository
